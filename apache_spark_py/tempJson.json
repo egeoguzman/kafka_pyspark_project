@@ -1,0 +1,10 @@
+[{"sensor":"4:0","timestamp":"2019.07.03.11.18.33","temperature":"738.05:0},
+{"sensor":{"roomID":"b56861b0-394c-409f-868a-1525fcd14f36"","timestamp":""doorstatus":1","temperature":""motionSensor":0},
+{"sensor":{"roomID":"17c65125-55bb-4fe3-b41d-55820f720d0b"","timestamp":""doorstatus":0","temperature":""motionSensor":1},
+{"sensor":{"roomID":"cd8cd674-a0fd-4ad5-bdbd-bdd2f79f67b7"","timestamp":""doorstatus":0","temperature":""motionSensor":1},
+{"sensor":{"roomID":"ef980df5-0c71-4fa7-8d9d-263c9fe422ce"","timestamp":""doorstatus":1","temperature":""motionSensor":0},
+{"sensor":{"roomID":"36d57472-4f26-4b3f-8e60-e5e12c65b5df"","timestamp":""doorstatus":1","temperature":""motionSensor":0},
+{"sensor":{"roomID":"259b5f0c-35c5-4d2a-b024-ece291c48a24"","timestamp":""doorstatus":1","temperature":""motionSensor":1},
+{"sensor":{"roomID":"50a433f4-badb-4025-9904-4a04ffc5dcab"","timestamp":""doorstatus":0","temperature":""motionSensor":1},
+{"sensor":{"roomID":"26d65e5c-f427-4b53-a5c7-f263e2c42436"","timestamp":""doorstatus":1","temperature":""motionSensor":1},
+{"sensor":{"roomID":"cc6c0563-ca5c-4f7b-bda5-2a79e91a77e2"","timestamp":""doorstatus":0","temperature":""motionSensor":1}]
